@@ -1,4 +1,4 @@
 coursera_r
 ==========
 
-For coursera R 
+For coursera R. Setting up initial GitHub structure.  
